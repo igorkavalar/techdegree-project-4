@@ -10,7 +10,11 @@
   padding: 10px 0;
   text-transform: uppercase;
   border-radius: 5px;
+  &:hover {
+    background-color: lighten($color-secondary, 15%);
+  }
 }
+
 
 .default {
   background-color: $color-button-bg-default;
