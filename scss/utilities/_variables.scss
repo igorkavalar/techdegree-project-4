@@ -1,18 +1,14 @@
-/* ============================================= */
-/*              Colors                   */
-/* ============================================= */
-
 //* Base white color *//
 $white: #fff;
 
-/* Contextual aliases */
+//* Contextual aliases *//
 $color-nav-hover: $white;
 $button-color: $white;
 
 //* Base primary color *//
 $color-primary: #58e1c1;
 
-/* Contextual aliases */
+//* Contextual aliases *//
 $color-primary-headline: $color-primary;
 $bkg-color-hover: $color-primary;
 $border-color: $color-primary;
@@ -20,22 +16,18 @@ $border-color: $color-primary;
 //* Base secondary color *//
 $color-secondary: #777;
 
-/* Contextual aliases */
+//* Contextual aliases *//
 $color-base: $color-secondary;
 $color-secondary-headline: $color-secondary;
 
 //* Base accent color *//
 $color-accent: #51ddfc;
 
-/* Contextual aliases */
+//* Contextual aliases *//
 $color-link: $color-accent;
 $color-button-bg-default: $color-accent;
 $color-grid-bg: $color-accent;
 
 $img-border: #ccc;
-
-/* ============================================= */
-/*              Media Queries                    */
-/* ============================================= */
 
 $break-m: 768px;
