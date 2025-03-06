@@ -32,3 +32,12 @@ $img-border: #ccc;
 
 $break-m: 768px;
 
+//* Button color *//
+
+$buttons: (
+  '.default': #51ddfc,
+  '.error': #e4757a,
+  '.info': #927bc1,
+  '.success': #63cc82,
+  '.warning': #fd7856,
+);
